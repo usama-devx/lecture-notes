@@ -67,4 +67,15 @@
 # 018 done
 
 # 019 Iteration The for Loop
->
+
+> simple for loop can skip
+
+# 020 Looping Arrays, Breaking and Continuing
+> create one array with name age username fname lname job friends hasDrivingLicense
+> then log each element using for loop
+> create one empty array type of in that store there type
+> log the types
+> push types using push and simple method also arrary[0]=
+> create array with birthyears 
+> create empty array hold the ages
+> also use break and continue concepts in if else
